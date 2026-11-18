@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "generated": "2026-11-18T09:25:18Z",
+ "letters": [
+  "а",
+  "б",
+  "в",
+  "г",
+  "д",
+  "е",
+  "ж",
+  "з",
+  "и",
+  "й",
+  "к",
+  "л",
+  "м",
+  "н",
+  "о",
+  "п",
+  "р",
+  "с",
+  "т",
+  "у",
+  "ф",
+  "х",
+  "ц",
+  "ч",
+  "ш",
+  "щ",
+  "ю",
+  "я",
+  "є",
+  "і",
+  "ї",
+  "ґ"
+ ],
+ "words": 42155,
+ "counts": {
+  "source-variants": 34410,
+  "sum11-new": 1389,
+  "sum11-variants": 790,
+  "closed-class": 72,
+  "grinchenko-new": 5531
+ },
+ "guess": {
+  "entries": 74838,
+  "maxn": 7,
+  "trainWords": 2778996
+ },
+ "sources": [
+  "lang-uk/ukrainian-word-stress-dictionary (stress_original.txt) — усі варіанти",
+  "СУМ-11 (1970–1980), DiktJson bakustarver/ukr-dictionaries-list-opensource",
+  "tools/stress-extra-closed.txt — займенники й числівники",
+  "Б. Грінченко, Словарь української мови (1907–1909), DiktJson bakustarver/ukr-dictionaries-list-opensource"
+ ]
+}
